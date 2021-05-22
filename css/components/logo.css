@@ -1,0 +1,9 @@
+.logo{
+    width: 55px;
+    height: 55px;
+    transition: transform 150ms linear;
+}
+
+.logo:hover{
+    transform: scale(1.2);
+}
