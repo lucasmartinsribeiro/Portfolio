@@ -6,6 +6,7 @@
     margin-right: 0;
     transition: transform 150ms cubic-bezier(.45, .97, .68, 2.48);
     font-size: 20px;
+    font-family: "Fira Code", Arial, Arial, Helvetica, sans-serif;
     color: #fff;
     text-decoration: none;
 }
