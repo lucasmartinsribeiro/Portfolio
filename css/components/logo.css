@@ -7,3 +7,8 @@
 .logo:hover{
     transform: scale(1.2);
 }
+
+.logo.-increase{
+    width: 250px;
+    height: 250px;
+}
