@@ -2,5 +2,25 @@
     background-color: darkgrey;
     padding-top: 50px;
     padding-bottom: 100px;
-    border-bottom: 10px solid #000;
+    border-bottom: 10px solid darkgrey;
+}
+
+.section .main-title{
+    margin-bottom: 60px;
+}
+
+.section.-bgBlack {
+    background-color: #000;
+}
+
+.section.-bdFirst {
+    border-color: darkgrey;
+}
+
+.section.-bgSecond {
+    background-color: coral;
+}
+
+.section.-bdBlack {
+    border-color: #000;
 }
