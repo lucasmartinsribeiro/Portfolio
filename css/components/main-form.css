@@ -1,0 +1,19 @@
+.main-form {
+    background-color: #3A4042;
+}
+
+.main-form {
+    padding: 50px 40px;
+}
+
+.main-form .main-title {
+    margin-bottom: 50px;
+}
+
+.main-form .main-input {
+    margin-bottom: 20px;
+}
+
+.main-form .main-input.-textarea {
+    margin-bottom: 40px;
+}
