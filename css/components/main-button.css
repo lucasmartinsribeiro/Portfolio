@@ -6,11 +6,24 @@
     margin-right: 0;
     transition: transform 150ms cubic-bezier(.45, .97, .68, 2.48);
     font-size: 20px;
-    font-family: "Fira Code", Arial, Arial, Helvetica, sans-serif;
+    /* font-family: "Fira Code", Arial, Arial, Helvetica, sans-serif; */
     color: #fff;
     text-decoration: none;
+
+}
+
+.main-button.-second{
+    background-color: coral;
 }
 
 .main-button:hover{
     transform: scale(1.08);
+}
+
+.main-button.-full {
+    width: 100%;
+}
+
+.main-button.-full:hover {
+    transform: scale(1.01);
 }
